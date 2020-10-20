@@ -7,7 +7,11 @@ Azure project link :
 
 https://gallery.cortanaintelligence.com/Experiment/Income-prediction-experiment
 
-Dataset: Adult census income binary
+Aim: To predict income based on various personal factors .
+
+
+
+Dataset: Adult census income binary classification dataset
 
 Attributes:
 age
@@ -17,6 +21,4 @@ relationship
 sex
 income
 
-
 Algorithm: Two-Class Boosted Decision Tree
-
